@@ -1,3 +1,4 @@
+//Eksempel fra Processing
 /**
  * Clock. 
  * 
