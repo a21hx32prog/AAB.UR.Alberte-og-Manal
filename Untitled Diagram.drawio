@@ -1,14 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T07:56:58.430Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="jIFoR4Q1bzDi3pQRf0P3" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-03T08:17:04.394Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="3cdQRKhcvGR3gdKmbJaa" version="16.6.5" type="github">
   <diagram id="7eNUgVlDoOjgHcn-pYlq" name="Page-1">
     <mxGraphModel dx="946" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mOzGpiN0NcTs4pMCBsg6-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mOzGpiN0NcTs4pMCBsg6-1" target="mOzGpiN0NcTs4pMCBsg6-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mOzGpiN0NcTs4pMCBsg6-1" value="Analyser og forstå &quot;Clock&quot; fra Processing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="10" width="120" height="60" as="geometry" />
+        <mxCell id="mOzGpiN0NcTs4pMCBsg6-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="mOzGpiN0NcTs4pMCBsg6-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="70" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mOzGpiN0NcTs4pMCBsg6-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mOzGpiN0NcTs4pMCBsg6-2" target="mOzGpiN0NcTs4pMCBsg6-3">
           <mxGeometry relative="1" as="geometry" />
@@ -19,38 +18,32 @@
         <mxCell id="mOzGpiN0NcTs4pMCBsg6-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mOzGpiN0NcTs4pMCBsg6-4" target="mOzGpiN0NcTs4pMCBsg6-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mOzGpiN0NcTs4pMCBsg6-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="mOzGpiN0NcTs4pMCBsg6-4" value="Programmer &quot;skift&quot; mellem analogt og digitalt ur" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mOzGpiN0NcTs4pMCBsg6-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mOzGpiN0NcTs4pMCBsg6-5" target="mOzGpiN0NcTs4pMCBsg6-6">
+        <mxCell id="mOzGpiN0NcTs4pMCBsg6-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mOzGpiN0NcTs4pMCBsg6-5" target="mOzGpiN0NcTs4pMCBsg6-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mOzGpiN0NcTs4pMCBsg6-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mOzGpiN0NcTs4pMCBsg6-5" value="Tilføj dato og design" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mOzGpiN0NcTs4pMCBsg6-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mOzGpiN0NcTs4pMCBsg6-6" target="mOzGpiN0NcTs4pMCBsg6-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mOzGpiN0NcTs4pMCBsg6-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="470" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mOzGpiN0NcTs4pMCBsg6-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="890" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mOzGpiN0NcTs4pMCBsg6-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mOzGpiN0NcTs4pMCBsg6-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mOzGpiN0NcTs4pMCBsg6-10" target="mOzGpiN0NcTs4pMCBsg6-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mOzGpiN0NcTs4pMCBsg6-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mOzGpiN0NcTs4pMCBsg6-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mOzGpiN0NcTs4pMCBsg6-3" target="mOzGpiN0NcTs4pMCBsg6-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mOzGpiN0NcTs4pMCBsg6-3" value="Programmer digitalt ur" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mOzGpiN0NcTs4pMCBsg6-33" value="&lt;span&gt;Analyser og forstå &quot;Clock&quot; fra Processing&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mOzGpiN0NcTs4pMCBsg6-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="530" as="sourcePoint" />
+            <mxPoint x="440" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mOzGpiN0NcTs4pMCBsg6-39" value="Tilføj alarm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
