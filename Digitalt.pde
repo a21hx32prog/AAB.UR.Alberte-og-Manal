@@ -34,11 +34,10 @@ void draw(){
    text(floor(time),20,50);
    
    
-   //blinkende prikker
+   //prikker
    if(sek % 2 == 0){
      farve= color(255);
-   } else {
-     farve = color(0);
+  
    }
    fill(farve);
    ellipse(70,30,8,8);
