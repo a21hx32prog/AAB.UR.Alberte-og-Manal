@@ -34,7 +34,7 @@ void draw(){
    text(floor(time),20,50);
    
    
-   //blinkende prikker
+   //prikker
    if(sek % 2 == 0){
      farve= color(255);
    
