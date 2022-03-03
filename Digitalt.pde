@@ -1,9 +1,9 @@
 float sek=15; 
 float min=42;
 float time=14;
-color farve= color(255);
+color farve= color(#8B8387);
 void setup(){
-  size(200,100);
+  size(640, 360);
   frameRate(1);
 }
 void draw(){
@@ -29,19 +29,20 @@ void draw(){
   //tekst
   textSize(30);
   fill(255);
-  text(floor(sek),140,50);
-  text(floor(min),80,50);
-   text(floor(time),20,50);
+  text(floor(sek),350,180);
+  text(floor(min),300,180);
+   text(floor(time),250,180);
    
-   
-   //prikker
-   if(sek % 2 == 0){
-     farve= color(255);
-  
+  //prikker
+  if(sek % 2==0){
+    farve = color(255);
+
+
+ //Vi er igang her mand
    }
    fill(farve);
-   ellipse(70,30,8,8);
-   ellipse(70,45,8,8);
-   ellipse(130,30,8,8);
-   ellipse(130,45,8,8);
+   ellipse(325,160,8,8);
+   ellipse(70,175,8,8);
+   ellipse(130,160,8,8);
+   ellipse(130,175,8,8);
 }
