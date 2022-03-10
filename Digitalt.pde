@@ -1,6 +1,6 @@
-float sek=15; 
-float min=42;
-float time=14;
+float sek=15;
+float min=24;
+float time=8.0;
 color farve= color(#8B8387);
 void setup(){
   size(640, 360);
@@ -8,8 +8,8 @@ void setup(){
 }
 void draw(){
   background(0);
-  
-  // Uret
+
+// Uret
   sek+=1;
   if(sek==60){
     sek=0;
@@ -23,26 +23,19 @@ void draw(){
     time=0;
     min=0;
     sek=0;
-  }
+if(time<10)
+{
+  text(floor(0),100,180);
   
-  
-  //tekst
-  textSize(30);
+}
+
+ 
+ }
+
+//tekst
+  textSize(100);
   fill(255);
-  text(floor(sek),350,180);
-  text(floor(min),300,180);
-   text(floor(time),250,180);
-   
-  //prikker
-  if(sek % 2==0){
-    farve = color(255);
-
-
- //Vi er igang her mand
-   }
-   fill(farve);
-   ellipse(325,160,8,8);
-   ellipse(70,175,8,8);
-   ellipse(130,160,8,8);
-   ellipse(130,175,8,8);
+  text(floor(sek),440,180);
+  text(floor(min),280,180);
+   text(floor(time),120,180);
 }
