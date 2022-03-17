@@ -40,4 +40,6 @@ void draw(){
 fill (farve);
 circle(250, 170, 10);  
 circle(250, 140, 10);  
+circle(410, 170, 10);  
+circle(410, 140, 10);  
 }
